@@ -1,13 +1,13 @@
 # C_primer_plus
 The solution to the exercise
-# My Project
+# My journey to c
 
-This is a simple project.
+This is a fantastic journey.
 
-## Features
-- Fast
-- Easy to use
-- Written in C
+## No pain,no gain
+- All is going well
+- Everything is gong better
+- slow is fast
 
 
 
