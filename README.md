@@ -1,3 +1,14 @@
 # C_primer_plus
 The solution to the exercise
-🚀 No pain,no gain
+# My Project
+
+This is a simple project.
+
+## Features
+- Fast
+- Easy to use
+- Written in C
+
+
+
+
